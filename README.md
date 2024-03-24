@@ -1,6 +1,48 @@
-## Title: Unleashing Your Code Fu: Codewars Solutions Journey
+<h1 align="center">Unleashing Your Code Fu: Codewars Katas Solutions Journey</h1>
 
-<p>Embark on a thrilling expedition to hone your coding prowess! This repository chronicles my ongoing quest to conquer the challenges presented on Codewars, a haven for programmers to test their mettle. Witness the evolution of my solutions, meticulously crafted to tackle an array of algorithmic puzzles.</p>
+<h6 align="center">
+  Solutions for Codewars katas
+</h6>
 
-</p>Dive into a treasure trove of efficient, well-structured code, each solution meticulously tailored to a specific Codewars challenge. Explore diverse problem-solving approaches, from elegant one-liners to intricate algorithmic masterpieces.
-</p>
+<p align="center">
+  <a href="https://github.com/prettier/prettier">
+    <img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square">
+  </a>
+
+### Terminology
+
+- Kata: is an algorithm you have to solve in any programming language you desire
+
+- Kyu: is a digit that determines kata difficulty level as well as the user rank on the platform
+
+### Repo-Structure
+
+There's a folder for each kata nested in its own kyu
+
+```ascii
+├── 8-kyu/
+│   ├── Mr. Freeze/
+│   │   ├── main.py
+│   │   
+│   └── ...
+│
+├── 7-kyu/
+│   ├── Binary Addition/
+│   │   ├── main.py
+│   │   
+│   └── ...
+```
+
+### Disclaimer
+
+- Codewarriors are strongly encouraged not to look at your solutions to Kata until they have completed it themselves or at least took the time to think about their own approaches
+
+* Codewarriors should not submit your solutions as their own
+
+- You will not be accepting contributions of any form to this repo
+
+* Creating a repository like this is discouraged by Codewars
+
+<h6 align="center">
+  Happy Learning !!!
+</h6>
