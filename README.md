@@ -8,6 +8,10 @@
   <a href="https://github.com/prettier/prettier">
     <img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square">
   </a>
+  <a href="https://www.codewars.com/users/mewara-gitxx/badges">
+    <img src="https://www.codewars.com/users/mewara-gitxx/badges/large">
+  </a>
+
 
 ### Terminology
 
